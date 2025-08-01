@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/sonapandala746-5802s-projects/v0-hair-count-clone](https://vercel.com/sonapandala746-5802s-projects/v0-hair-count-clone)**
+**(https://spidermol.vercel.app/)**
 
 ## Build your app
 
