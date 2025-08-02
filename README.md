@@ -1,30 +1,5 @@
-# HairCount Clone
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sonapandala746-5802s-projects/v0-hair-count-clone)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/dmVwcEjwXLL)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**(https://spidermol.vercel.app/)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/dmVwcEjwXLL](https://v0.dev/chat/projects/dmVwcEjwXLL)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+HAIR COUNT
+HairCount™ is a satirical web app that pretends to use advanced AI to count the hairs on your hanD - wrapped in a sleek, over-the-top design. Useless, unnecessary, and proudly proud of it.
+TEAM MEMBERS
+ .Ganga Suresh
+ .Sona S Pandala
